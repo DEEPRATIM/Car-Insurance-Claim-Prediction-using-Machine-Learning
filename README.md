@@ -1,1 +1,4 @@
 # Car-Insurance-Claim-Prediction-using-Machine-Learning
+<p>
+The car insurance industry faces a significant challenge: efficiently managing claims while minimizing fraudulent submissions. In response, this project explores the application of machine learning models to predict car insurance claims. Unlike traditional rule-based systems, which struggle with intricate patterns and dynamic data, machine learning provides powerful, efficient, and often more accurate methods for prediction. By analyzing historical car insurance claims data, we employ various machine learning algorithms to develop a robust predictive model. This study underscores the pivotal role of machine learning in revolutionizing the insurance landscape. Accurate predictions empower insurers to allocate resources effectively, streamline processes, and ultimately enhance the experience for policyholders. Our primary focus is on improving claim processing efficiency. 
+</p>
