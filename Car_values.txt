@@ -1,0 +1,78 @@
+1.Xgboost:
+Accuracy:0.8508
+f1 Score: 0.824804687756863
+Recall: 0.8228632828168522
+Precision: 0.8268602540834846
+Jaccard Score: 0.7074753369838782
+Confusion matrix:
+[[1551  172]
+ [ 206  571]]
+
+2.Decision tree:
+Accuracy:0.7908
+f1 Score: 0.7572842117417267
+Recall: 0.7588426250643314
+Precision: 0.7558247524664763
+Jaccard Score: 0.6179007207792458
+Confusion matrix:
+[[1574  149]
+ [ 240  537]]
+
+3.Logistic reg
+Accuracy:0.842
+f1 Score: 0.8118330434133085
+Recall: 0.8058797957230923
+Precision: 0.8189981273116484
+Jaccard Score: 0.6900606367454558
+Confusion matrix:
+[[1553  170]
+ [ 225  552]]
+
+4.SVC:
+Accuracy:0.84
+f1 Score: 0.8086437896490068
+Recall: 0.8016023651543094
+Precision: 0.8174395960939607
+Jaccard Score: 0.6858861044677828
+Confusion matrix:
+[[1556  167]
+ [ 233  544]]
+
+5.Naive bayes:
+Accuracy:0.7748
+f1 Score: 0.7820721026719016
+Recall: 0.7748
+Precision: 0.8089676519916142
+Jaccard Score: 0.6143162909286097
+[[1300  423]
+ [ 140  637]]
+
+6.KNN:
+Accuracy:0.8288
+f1 Score: 0.7907558680267925
+Recall: 0.7789913286140796
+Precision: 0.8084652859848156
+Jaccard Score: 0.6629788936896215
+Confusion matrix:
+[[1569  154]
+ [ 274  503]]
+
+7.Adaboost:
+Accuracy:0.8444
+f1 Score: 0.8120638940245208
+Recall: 0.8023213081251386
+Precision: 0.8252472669647477
+Jaccard Score: 0.6908737672865947
+Confusion matrix:
+[[1574  149]
+ [ 240  537]]
+
+8.Random forest:
+Accuracy:0.846
+f1 Score: 0.8171525532817459
+Recall: 0.8119614930410055
+Precision: 0.8232296261899235
+Jaccard Score: 0.6972336495676266
+Confusion matrix:
+[[1554  169]
+ [ 216  561]]
